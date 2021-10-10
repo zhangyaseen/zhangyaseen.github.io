@@ -2,6 +2,8 @@
 
 ## 读书笔记
 
+
+* [如何高效学习](notes/Learn-More-Study-Less.md)
 * [高效能人士的七个习惯](notes/seven-habits.md)
 
 
